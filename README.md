@@ -4,6 +4,8 @@
 
 This is a simple URL shortener web application built using Laravel and Vue.js. The application allows users to shorten long URLs into concise, easy-to-share links.
 
+![Alt Text](https://i.imgur.com/IAZ7Ekc.png)
+
 ## Features
 
 - **Shorten URLs:** Enter a long URL, and the system generates a unique short URL.
