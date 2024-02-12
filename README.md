@@ -22,9 +22,8 @@ This is a simple URL shortener web application built using Laravel and Vue.js. T
 - [Node.js](https://nodejs.org/) installed
 - [MySQL](https://www.mysql.com/) database
 
-### Installation
 
-1. Clone the repository:
+### SQL FILE 
 
-   ```bash
-   git clone https://github.com/your-username/url-shortener.git
+```bash
+intusdb_dump.sql
